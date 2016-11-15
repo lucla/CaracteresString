@@ -1,0 +1,5 @@
+F:\VisualStudio\C#\01\CaracteresString\CaracteresString\bin\Debug\CaracteresString.exe.config
+F:\VisualStudio\C#\01\CaracteresString\CaracteresString\bin\Debug\CaracteresString.exe
+F:\VisualStudio\C#\01\CaracteresString\CaracteresString\bin\Debug\CaracteresString.pdb
+F:\VisualStudio\C#\01\CaracteresString\CaracteresString\obj\Debug\CaracteresString.exe
+F:\VisualStudio\C#\01\CaracteresString\CaracteresString\obj\Debug\CaracteresString.pdb
